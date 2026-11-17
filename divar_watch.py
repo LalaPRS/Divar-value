@@ -24,6 +24,7 @@ Run manually for testing:
 
 from __future__ import annotations
 
+import html
 import asyncio
 import json
 import os
@@ -355,11 +356,18 @@ def passes_required_features(record: dict, cfg: dict) -> bool:
             return False
     return True
 
-
+def esc(value) -> str:
+    """HTML-escape دادن متن‌های داینامیک قبل از قرار گرفتن در پیام HTML تلگرام.
+    عنوان/دلیل آگهی‌های دیوار گاهی یک '<' خام دارند که پارسر HTML تلگرام
+    آن را شروع یک تگ ناقص می‌خواند و کل پیام را رد می‌کند. هرچه از خودِ
+    آگهی می‌آید باید escape شود؛ فقط تگ‌های <b>/</b> که خودمان اضافه
+    می‌کنیم دست‌نخورده می‌مانند."""
+    return html.escape(str(value), quote=False)
+    
 def build_message(record: dict) -> str:
-    lines = [f"🏠 <b>{record.get('title') or 'بدون عنوان'}</b>"]
+    lines = [f"🏠 <b>{esc(record.get('title') or 'بدون عنوان')}</b>"]
     if record.get("district"):
-        lines.append(f"📍 محله: {record['district']}")
+        lines.append(f"📍 محله: {esc(record['district'])}")
     if isinstance(record.get("price"), (int, float)):
         lines.append(f"💰 قیمت: {fmt_toman(record['price'])} تومان")
     if record.get("area"):
@@ -376,7 +384,7 @@ def build_message(record: dict) -> str:
     if record.get("discount_pct") is not None:
         lines.append(f"🔻 ارزان‌تر از میانه: {record['discount_pct']}%")
     if record.get("reasons"):
-        lines.append("دلیل: " + "، ".join(str(r) for r in record["reasons"]))
+        lines.append("دلیل: " + "، ".join(esc(r) for r in record["reasons"]))
 
     feat_labels = {
         "parking": "🚗 پارکینگ",
