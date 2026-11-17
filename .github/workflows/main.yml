@@ -1,1 +1,53 @@
+name: Divar value watch
 
+on:
+  schedule:
+    # هر ۲ ساعت (دقیقه ۱۵ برای جلوگیری از شلوغی دقیقه صفر در گیت‌هاب)
+    - cron: "15 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      verbose_summary:
+        description: "حتی اگر آگهی جدیدی پیدا نشد، یک پیام خلاصه به تلگرام بفرست (برای تست اولیه)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: divar-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # اگر دیوار صفحه‌ی تایید ربات (challenge/captcha) نشان داد، این مرحله را
+      # از حالت کامنت خارج کن و در requirements.txt خط اول را به
+      # "divar-mcp[browser]>=0.3.0" تغییر بده (در README توضیح داده شده).
+      # - name: Install headless browser fallback
+      #   run: python -m patchright install chromium --with-deps
+
+      - name: Run watcher
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          VERBOSE_SUMMARY: ${{ inputs.verbose_summary || 'false' }}
+        run: python divar_watch.py
+
+      - name: Commit updated state and dashboard
+        run: |
+          git config user.name "divar-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/seen_tokens.json state/listings.json dashboard.html
+          git diff --cached --quiet || git commit -m "update listings and dashboard [skip ci]"
+          git push
