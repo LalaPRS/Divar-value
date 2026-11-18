@@ -21,7 +21,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795014168.3276496
+    "last_seen": 1795022060.868168
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -45,7 +45,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7LS4aj",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795014168.3276496
+    "last_seen": 1795022060.868168
   },
   "ga6b8Sl0": {
     "token": "ga6b8Sl0",
@@ -879,7 +879,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gagr7zBd",
     "first_seen": 1794986716.626599,
-    "last_seen": 1795014168.3276496
+    "last_seen": 1795022060.868168
   },
   "gatL-iKe": {
     "token": "gatL-iKe",
@@ -1063,10 +1063,10 @@
     "price_per_m2": 70000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 78,
+    "deal_score": 76,
     "discount_pct": null,
     "reasons": [
-      "24% below the median (+48)",
+      "23% below the median (+46)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)"
     ],
@@ -1076,7 +1076,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga9PZXII",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795014168.3276496
+    "last_seen": 1795022060.868168
   },
   "ga5LHUop": {
     "token": "ga5LHUop",
@@ -1099,7 +1099,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga5LHUop",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795014168.3276496
+    "last_seen": 1795022060.868168
   },
   "ga9bnIES": {
     "token": "ga9bnIES",
@@ -1192,6 +1192,53 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9z6rHt",
     "first_seen": 1795014168.3276496,
-    "last_seen": 1795014168.3276496
+    "last_seen": 1795022060.868168
+  },
+  "ga9PN6xQ": {
+    "token": "ga9PN6xQ",
+    "title": "اپارتمان‌نوساز",
+    "price": 5000000000,
+    "district": "فیروزآباد",
+    "area": 83,
+    "price_per_m2": 60240963.855421685,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 90,
+    "discount_pct": null,
+    "reasons": [
+      "34% below the median (+60)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/ga9PN6xQ",
+    "first_seen": 1795022060.868168,
+    "last_seen": 1795022060.868168
+  },
+  "ga9LMzJ1": {
+    "token": "ga9LMzJ1",
+    "title": "فروش آپارتمان 65.70.85متری نوساز",
+    "price": 6000000000,
+    "district": "یافت آباد جنوبی",
+    "area": 85,
+    "price_per_m2": 70588235.29411764,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 51,
+    "discount_pct": null,
+    "reasons": [
+      "23% below the median (+46)",
+      "last bumped <24 h ago, publish time unknown (+5)"
+    ],
+    "parking": false,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/ga9LMzJ1",
+    "first_seen": 1795022060.868168,
+    "last_seen": 1795022060.868168
   }
 }
