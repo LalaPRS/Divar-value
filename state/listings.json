@@ -8,10 +8,10 @@
     "price_per_m2": 70769230.76923077,
     "floor": null,
     "total_floors": null,
-    "deal_score": 66,
+    "deal_score": 62,
     "discount_pct": null,
     "reasons": [
-      "23% below the median (+46)",
+      "21% below the median (+42)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)",
       "no parking (-10)"
@@ -22,7 +22,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794978497.5779824
+    "last_seen": 1794986716.626599
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -36,7 +36,7 @@
     "deal_score": 80,
     "discount_pct": null,
     "reasons": [
-      "32% below the median (+60)",
+      "31% below the median (+60)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)",
       "no parking (-10)"
@@ -47,7 +47,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7LS4aj",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794978497.5779824
+    "last_seen": 1794986716.626599
   },
   "ga6b8Sl0": {
     "token": "ga6b8Sl0",
@@ -105,12 +105,11 @@
     "price_per_m2": 77333333.33333333,
     "floor": null,
     "total_floors": null,
-    "deal_score": 37,
+    "deal_score": 43,
     "discount_pct": null,
     "reasons": [
-      "16% below the median (+32)",
-      "3+ photos (+15)",
-      "no parking (-10)"
+      "14% below the median (+28)",
+      "3+ photos (+15)"
     ],
     "parking": false,
     "storage": true,
@@ -118,7 +117,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7jhZWN",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794970660.5894966
+    "last_seen": 1794986716.626599
   },
   "ga7H59oF": {
     "token": "ga7H59oF",
@@ -152,12 +151,11 @@
     "price_per_m2": 72000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 47,
+    "deal_score": 45,
     "discount_pct": null,
     "reasons": [
-      "21% below the median (+42)",
-      "published in the last 24 h (+15)",
-      "no parking (-10)"
+      "20% below the median (+40)",
+      "last bumped <24 h ago, publish time unknown (+5)"
     ],
     "parking": false,
     "storage": false,
@@ -165,7 +163,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8bB5eq",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794978497.5779824
+    "last_seen": 1794986716.626599
   },
   "ga8PTfxH": {
     "token": "ga8PTfxH",
@@ -806,6 +804,80 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaXry1Cf",
     "first_seen": 1794978497.5779824,
-    "last_seen": 1794978497.5779824
+    "last_seen": 1794986716.626599
+  },
+  "ga8_Emrp": {
+    "token": "ga8_Emrp",
+    "title": "۱۵۰متری استخر دار",
+    "price": 4000000000,
+    "district": "بوستان چیتگر",
+    "area": 150,
+    "price_per_m2": 26666666.666666668,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 90,
+    "discount_pct": null,
+    "reasons": [
+      "70% below the median (+60)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/ga8_Emrp",
+    "first_seen": 1794986716.626599,
+    "last_seen": 1794986716.626599
+  },
+  "ga63ODe1": {
+    "token": "ga63ODe1",
+    "title": "اپارتمان قیمت مناسب خانه خوش قیمت",
+    "price": 5000000000,
+    "district": "دولت‌آباد",
+    "area": null,
+    "price_per_m2": null,
+    "floor": 2,
+    "total_floors": null,
+    "deal_score": 51,
+    "discount_pct": null,
+    "reasons": [
+      "18% below the median (+36)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)",
+      "no parking (-10)",
+      "no elevator on floor 3 (-5)"
+    ],
+    "parking": false,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/ga63ODe1",
+    "first_seen": 1794986716.626599,
+    "last_seen": 1794986716.626599
+  },
+  "gagr7zBd": {
+    "token": "gagr7zBd",
+    "title": "۶۵ متری / فول امکانات",
+    "price": 5000000000,
+    "district": "مولوی",
+    "area": 65,
+    "price_per_m2": 76923076.92307693,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 45,
+    "discount_pct": null,
+    "reasons": [
+      "15% below the median (+30)",
+      "3+ photos (+15)",
+      "only re-bumped: first published 22 days ago (+0)"
+    ],
+    "parking": true,
+    "storage": false,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/gagr7zBd",
+    "first_seen": 1794986716.626599,
+    "last_seen": 1794986716.626599
   }
 }
