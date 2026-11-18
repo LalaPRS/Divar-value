@@ -22,7 +22,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -47,7 +47,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7LS4aj",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga6b8Sl0": {
     "token": "ga6b8Sl0",
@@ -71,7 +71,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga6b8Sl0",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga5j2QPI": {
     "token": "ga5j2QPI",
@@ -118,7 +118,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7jhZWN",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga7H59oF": {
     "token": "ga7H59oF",
@@ -129,12 +129,11 @@
     "price_per_m2": 79310344.8275862,
     "floor": null,
     "total_floors": null,
-    "deal_score": 46,
+    "deal_score": 41,
     "discount_pct": null,
     "reasons": [
       "13% below the median (+26)",
-      "3+ photos (+15)",
-      "last bumped <24 h ago, publish time unknown (+5)"
+      "3+ photos (+15)"
     ],
     "parking": false,
     "storage": false,
@@ -142,7 +141,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7H59oF",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga8bB5eq": {
     "token": "ga8bB5eq",
@@ -166,7 +165,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8bB5eq",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga8PTfxH": {
     "token": "ga8PTfxH",
@@ -190,7 +189,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8PTfxH",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga8PhO8n": {
     "token": "ga8PhO8n",
@@ -214,7 +213,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8PhO8n",
     "first_seen": 1794921318.783307,
-    "last_seen": 1794949155.067159
+    "last_seen": 1794964970.4576285
   },
   "ga73BRjF": {
     "token": "ga73BRjF",
@@ -352,7 +351,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gayf_iVv",
     "first_seen": 1794921318.783307,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga83DI3L": {
     "token": "ga83DI3L",
@@ -372,7 +371,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga83DI3L",
     "first_seen": 1794921318.783307,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga-WD8SS": {
     "token": "ga-WD8SS",
@@ -483,12 +482,12 @@
     "price_per_m2": 78000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 45,
+    "deal_score": 43,
     "discount_pct": null,
     "reasons": [
-      "20% below the median (+40)",
+      "19% below the median (+38)",
       "3+ photos (+15)",
-      "only re-bumped: first published 24 days ago (+0)",
+      "only re-bumped: first published 25 days ago (+0)",
       "no parking (-10)"
     ],
     "parking": false,
@@ -497,7 +496,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gacDpqWU",
     "first_seen": 1794927593.4128048,
-    "last_seen": 1794949155.067159
+    "last_seen": 1794964970.4576285
   },
   "ga5rlbul": {
     "token": "ga5rlbul",
@@ -517,7 +516,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga5rlbul",
     "first_seen": 1794927593.4128048,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga8zl5vJ": {
     "token": "ga8zl5vJ",
@@ -537,7 +536,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8zl5vJ",
     "first_seen": 1794927593.4128048,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga8fRZWR": {
     "token": "ga8fRZWR",
@@ -580,7 +579,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/gaxzraS-",
     "first_seen": 1794935473.2527368,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga77BuXH": {
     "token": "ga77BuXH",
@@ -624,7 +623,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaYXFtid",
     "first_seen": 1794942446.0016532,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "gaprI9fz": {
     "token": "gaprI9fz",
@@ -644,11 +643,11 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaprI9fz",
     "first_seen": 1794942446.0016532,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga7bXHcm": {
     "token": "ga7bXHcm",
-    "title": "بدون عنوان",
+    "title": "آپارتمان ۷۰ متری/یافت آباد/نوساز/لوکیشن الغدیر",
     "price": 6000000000,
     "district": "یافت آباد شمالی",
     "area": 70,
@@ -664,7 +663,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7bXHcm",
     "first_seen": 1794942446.0016532,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga8z2Sp6": {
     "token": "ga8z2Sp6",
@@ -688,7 +687,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/ga8z2Sp6",
     "first_seen": 1794949155.067159,
-    "last_seen": 1794949155.067159
+    "last_seen": 1794964970.4576285
   },
   "gayaVEQy": {
     "token": "gayaVEQy",
@@ -699,10 +698,10 @@
     "price_per_m2": 83098591.54929577,
     "floor": null,
     "total_floors": null,
-    "deal_score": 59,
+    "deal_score": 43,
     "discount_pct": null,
     "reasons": [
-      "22% below the median (+44)",
+      "14% below the median (+28)",
       "3+ photos (+15)",
       "only re-bumped: first published 57 days ago (+0)"
     ],
@@ -712,7 +711,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gayaVEQy",
     "first_seen": 1794956377.7703764,
-    "last_seen": 1794956377.7703764
+    "last_seen": 1794964970.4576285
   },
   "ga5H7ZHr": {
     "token": "ga5H7ZHr",
