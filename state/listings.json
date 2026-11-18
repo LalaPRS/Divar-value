@@ -8,10 +8,10 @@
     "price_per_m2": 70769230.76923077,
     "floor": null,
     "total_floors": null,
-    "deal_score": 51,
+    "deal_score": 49,
     "discount_pct": null,
     "reasons": [
-      "23% below the median (+46)",
+      "22% below the median (+44)",
       "3+ photos (+15)",
       "no parking (-10)"
     ],
@@ -21,7 +21,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -45,7 +45,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7LS4aj",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga6b8Sl0": {
     "token": "ga6b8Sl0",
@@ -149,10 +149,11 @@
     "price_per_m2": 72000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 46,
+    "deal_score": 42,
     "discount_pct": null,
     "reasons": [
-      "23% below the median (+46)"
+      "26% below the median (+52)",
+      "no parking (-10)"
     ],
     "parking": false,
     "storage": false,
@@ -160,7 +161,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8bB5eq",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795028524.142683
+    "last_seen": 1795042697.200851
   },
   "ga8PTfxH": {
     "token": "ga8PTfxH",
@@ -196,12 +197,11 @@
     "price_per_m2": 81428571.42857143,
     "floor": null,
     "total_floors": null,
-    "deal_score": 62,
+    "deal_score": 47,
     "discount_pct": null,
     "reasons": [
       "16% below the median (+32)",
-      "3+ photos (+15)",
-      "published in the last 24 h (+15)"
+      "3+ photos (+15)"
     ],
     "parking": true,
     "storage": false,
@@ -209,7 +209,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8PhO8n",
     "first_seen": 1794921318.783307,
-    "last_seen": 1794970660.5894966
+    "last_seen": 1795042697.200851
   },
   "ga73BRjF": {
     "token": "ga73BRjF",
@@ -481,11 +481,12 @@
     "price_per_m2": 78000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 45,
+    "deal_score": 43,
     "discount_pct": null,
     "reasons": [
-      "15% below the median (+30)",
-      "3+ photos (+15)"
+      "19% below the median (+38)",
+      "3+ photos (+15)",
+      "no parking (-10)"
     ],
     "parking": false,
     "storage": true,
@@ -493,7 +494,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gacDpqWU",
     "first_seen": 1794927593.4128048,
-    "last_seen": 1795028524.142683
+    "last_seen": 1795042697.200851
   },
   "ga5rlbul": {
     "token": "ga5rlbul",
@@ -699,12 +700,11 @@
     "price_per_m2": 83098591.54929577,
     "floor": null,
     "total_floors": null,
-    "deal_score": 47,
+    "deal_score": 43,
     "discount_pct": null,
     "reasons": [
-      "16% below the median (+32)",
-      "3+ photos (+15)",
-      "only re-bumped: first published 57 days ago (+0)"
+      "14% below the median (+28)",
+      "3+ photos (+15)"
     ],
     "parking": true,
     "storage": true,
@@ -712,7 +712,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gayaVEQy",
     "first_seen": 1794956377.7703764,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga5H7ZHr": {
     "token": "ga5H7ZHr",
@@ -881,7 +881,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gagr7zBd",
     "first_seen": 1794986716.626599,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "gatL-iKe": {
     "token": "gatL-iKe",
@@ -965,12 +965,12 @@
     "price_per_m2": 88235294.11764705,
     "floor": null,
     "total_floors": null,
-    "deal_score": 35,
+    "deal_score": 38,
     "discount_pct": null,
     "reasons": [
-      "10% below the median (+20)",
+      "9% below the median (+18)",
       "3+ photos (+15)",
-      "only re-bumped: first published 29 days ago (+0)"
+      "last bumped <24 h ago, publish time unknown (+5)"
     ],
     "parking": true,
     "storage": true,
@@ -978,7 +978,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/gaYrmNYx",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9PG1p3": {
     "token": "ga9PG1p3",
@@ -998,7 +998,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga9PG1p3",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9_Vwq5": {
     "token": "ga9_Vwq5",
@@ -1018,7 +1018,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9_Vwq5",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9_W-U9": {
     "token": "ga9_W-U9",
@@ -1038,7 +1038,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga9_W-U9",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9n13lz": {
     "token": "ga9n13lz",
@@ -1058,7 +1058,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga9n13lz",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9PZXII": {
     "token": "ga9PZXII",
@@ -1069,10 +1069,10 @@
     "price_per_m2": 70000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 78,
+    "deal_score": 76,
     "discount_pct": null,
     "reasons": [
-      "24% below the median (+48)",
+      "23% below the median (+46)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)"
     ],
@@ -1082,7 +1082,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga9PZXII",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga5LHUop": {
     "token": "ga5LHUop",
@@ -1173,7 +1173,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9D6t79",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9z6rHt": {
     "token": "ga9z6rHt",
@@ -1198,7 +1198,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9z6rHt",
     "first_seen": 1795014168.3276496,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9PN6xQ": {
     "token": "ga9PN6xQ",
@@ -1222,7 +1222,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9PN6xQ",
     "first_seen": 1795022060.868168,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9LMzJ1": {
     "token": "ga9LMzJ1",
@@ -1245,7 +1245,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9LMzJ1",
     "first_seen": 1795022060.868168,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9nFiiH": {
     "token": "ga9nFiiH",
@@ -1290,7 +1290,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaRK-0Uw",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga0H0jlf": {
     "token": "ga0H0jlf",
@@ -1310,7 +1310,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga0H0jlf",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "ga9rNuWL": {
     "token": "ga9rNuWL",
@@ -1321,10 +1321,10 @@
     "price_per_m2": 90000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 46,
+    "deal_score": 44,
     "discount_pct": null,
     "reasons": [
-      "8% below the median (+16)",
+      "7% below the median (+14)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)"
     ],
@@ -1334,7 +1334,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9rNuWL",
     "first_seen": 1795035638.6279924,
-    "last_seen": 1795035638.6279924
+    "last_seen": 1795042697.200851
   },
   "gaUr_T4D": {
     "token": "gaUr_T4D",
@@ -1358,5 +1358,53 @@
     "url": "https://divar.ir/v/gaUr_T4D",
     "first_seen": 1795035638.6279924,
     "last_seen": 1795035638.6279924
+  },
+  "gauzQGe1": {
+    "token": "gauzQGe1",
+    "title": "قرار نیست پولدار باشی تا هوشمندانه خرید کنی",
+    "price": 4000000000,
+    "district": "حکیمیه",
+    "area": null,
+    "price_per_m2": null,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 60,
+    "discount_pct": null,
+    "reasons": [
+      "56% below the median (+60)",
+      "only re-bumped: first published 12 days ago (+0)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/gauzQGe1",
+    "first_seen": 1795042697.200851,
+    "last_seen": 1795042697.200851
+  },
+  "ga9PeJsr": {
+    "token": "ga9PeJsr",
+    "title": "واحد آپارتمان",
+    "price": 5400000000,
+    "district": "هرندی",
+    "area": 61,
+    "price_per_m2": 88524590.16393442,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 36,
+    "discount_pct": null,
+    "reasons": [
+      "8% below the median (+16)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)",
+      "no parking (-10)"
+    ],
+    "parking": false,
+    "storage": false,
+    "elevator": true,
+    "single_sheet_deed": false,
+    "url": "https://divar.ir/v/ga9PeJsr",
+    "first_seen": 1795042697.200851,
+    "last_seen": 1795042697.200851
   }
 }
