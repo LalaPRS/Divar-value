@@ -22,7 +22,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794970660.5894966
+    "last_seen": 1794978497.5779824
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -47,7 +47,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7LS4aj",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794970660.5894966
+    "last_seen": 1794978497.5779824
   },
   "ga6b8Sl0": {
     "token": "ga6b8Sl0",
@@ -71,7 +71,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga6b8Sl0",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794970660.5894966
+    "last_seen": 1794978497.5779824
   },
   "ga5j2QPI": {
     "token": "ga5j2QPI",
@@ -141,7 +141,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7H59oF",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794970660.5894966
+    "last_seen": 1794978497.5779824
   },
   "ga8bB5eq": {
     "token": "ga8bB5eq",
@@ -165,7 +165,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8bB5eq",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794970660.5894966
+    "last_seen": 1794978497.5779824
   },
   "ga8PTfxH": {
     "token": "ga8PTfxH",
@@ -189,7 +189,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8PTfxH",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1794970660.5894966
+    "last_seen": 1794978497.5779824
   },
   "ga8PhO8n": {
     "token": "ga8PhO8n",
@@ -579,7 +579,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/gaxzraS-",
     "first_seen": 1794935473.2527368,
-    "last_seen": 1794970660.5894966
+    "last_seen": 1794978497.5779824
   },
   "ga77BuXH": {
     "token": "ga77BuXH",
@@ -782,5 +782,30 @@
     "url": "https://divar.ir/v/ga3fozSM",
     "first_seen": 1794956377.7703764,
     "last_seen": 1794956377.7703764
+  },
+  "gaXry1Cf": {
+    "token": "gaXry1Cf",
+    "title": "112متر،تاپ لوکیشن،فول لاکچری،تهاتر ملک/خودرو",
+    "price": 4480000000,
+    "district": "گلستان (شهرک راه آهن)",
+    "area": 112,
+    "price_per_m2": 40000000.0,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 40,
+    "discount_pct": null,
+    "reasons": [
+      "56% below the median (+60)",
+      "3+ photos (+15)",
+      "last bumped <24 h ago, publish time unknown (+5)",
+      "looks like a notice, parking, storage or co-op housing transfer, not a normal sale (-40)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/gaXry1Cf",
+    "first_seen": 1794978497.5779824,
+    "last_seen": 1794978497.5779824
   }
 }
