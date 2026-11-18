@@ -21,7 +21,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795008066.812831
+    "last_seen": 1795014168.3276496
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -45,7 +45,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7LS4aj",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795008066.812831
+    "last_seen": 1795014168.3276496
   },
   "ga6b8Sl0": {
     "token": "ga6b8Sl0",
@@ -481,12 +481,11 @@
     "price_per_m2": 78000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 50,
+    "deal_score": 45,
     "discount_pct": null,
     "reasons": [
       "15% below the median (+30)",
-      "3+ photos (+15)",
-      "last bumped <24 h ago, publish time unknown (+5)"
+      "3+ photos (+15)"
     ],
     "parking": false,
     "storage": true,
@@ -494,7 +493,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gacDpqWU",
     "first_seen": 1794927593.4128048,
-    "last_seen": 1795008066.812831
+    "last_seen": 1795014168.3276496
   },
   "ga5rlbul": {
     "token": "ga5rlbul",
@@ -856,7 +855,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga63ODe1",
     "first_seen": 1794986716.626599,
-    "last_seen": 1795008066.812831
+    "last_seen": 1795014168.3276496
   },
   "gagr7zBd": {
     "token": "gagr7zBd",
@@ -867,12 +866,12 @@
     "price_per_m2": 76923076.92307693,
     "floor": null,
     "total_floors": null,
-    "deal_score": 47,
+    "deal_score": 52,
     "discount_pct": null,
     "reasons": [
       "16% below the median (+32)",
       "3+ photos (+15)",
-      "only re-bumped: first published 22 days ago (+0)"
+      "last bumped <24 h ago, publish time unknown (+5)"
     ],
     "parking": true,
     "storage": false,
@@ -880,7 +879,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gagr7zBd",
     "first_seen": 1794986716.626599,
-    "last_seen": 1795008066.812831
+    "last_seen": 1795014168.3276496
   },
   "gatL-iKe": {
     "token": "gatL-iKe",
@@ -1077,7 +1076,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga9PZXII",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795008066.812831
+    "last_seen": 1795014168.3276496
   },
   "ga5LHUop": {
     "token": "ga5LHUop",
@@ -1100,7 +1099,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga5LHUop",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795008066.812831
+    "last_seen": 1795014168.3276496
   },
   "ga9bnIES": {
     "token": "ga9bnIES",
@@ -1169,5 +1168,30 @@
     "url": "https://divar.ir/v/ga9D6t79",
     "first_seen": 1795008066.812831,
     "last_seen": 1795008066.812831
+  },
+  "ga9z6rHt": {
+    "token": "ga9z6rHt",
+    "title": "۷۵ متر/۲ خواب/زیر قیمت",
+    "price": 4600000000,
+    "district": "مطهری",
+    "area": 75,
+    "price_per_m2": 61333333.333333336,
+    "floor": 3,
+    "total_floors": null,
+    "deal_score": 80,
+    "discount_pct": null,
+    "reasons": [
+      "33% below the median (+60)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)",
+      "no parking (-10)"
+    ],
+    "parking": false,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/ga9z6rHt",
+    "first_seen": 1795014168.3276496,
+    "last_seen": 1795014168.3276496
   }
 }
