@@ -491,7 +491,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gacDpqWU",
     "first_seen": 1794927593.4128048,
-    "last_seen": 1795073106.4168046
+    "last_seen": 1795079566.7325196
   },
   "ga5rlbul": {
     "token": "ga5rlbul",
@@ -874,8 +874,7 @@
     "discount_pct": null,
     "reasons": [
       "16% below the median (+32)",
-      "3+ photos (+15)",
-      "only re-bumped: first published 23 days ago (+0)"
+      "3+ photos (+15)"
     ],
     "parking": true,
     "storage": false,
@@ -883,7 +882,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gagr7zBd",
     "first_seen": 1794986716.626599,
-    "last_seen": 1795073106.4168046
+    "last_seen": 1795079566.7325196
   },
   "gatL-iKe": {
     "token": "gatL-iKe",
@@ -1071,10 +1070,10 @@
     "price_per_m2": 70000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 76,
+    "deal_score": 78,
     "discount_pct": null,
     "reasons": [
-      "23% below the median (+46)",
+      "24% below the median (+48)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)"
     ],
@@ -1084,7 +1083,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga9PZXII",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795073106.4168046
+    "last_seen": 1795079566.7325196
   },
   "ga5LHUop": {
     "token": "ga5LHUop",
@@ -1200,7 +1199,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9z6rHt",
     "first_seen": 1795014168.3276496,
-    "last_seen": 1795073106.4168046
+    "last_seen": 1795079566.7325196
   },
   "ga9PN6xQ": {
     "token": "ga9PN6xQ",
@@ -1239,7 +1238,8 @@
     "discount_pct": null,
     "reasons": [
       "23% below the median (+46)",
-      "last bumped <24 h ago, publish time unknown (+5)"
+      "published in the last 24 h (+15)",
+      "no parking (-10)"
     ],
     "parking": false,
     "storage": true,
@@ -1247,7 +1247,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9LMzJ1",
     "first_seen": 1795022060.868168,
-    "last_seen": 1795073106.4168046
+    "last_seen": 1795079566.7325196
   },
   "ga9nFiiH": {
     "token": "ga9nFiiH",
@@ -1383,7 +1383,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gauzQGe1",
     "first_seen": 1795042697.200851,
-    "last_seen": 1795073106.4168046
+    "last_seen": 1795079566.7325196
   },
   "ga9PeJsr": {
     "token": "ga9PeJsr",
@@ -1409,5 +1409,29 @@
     "url": "https://divar.ir/v/ga9PeJsr",
     "first_seen": 1795042697.200851,
     "last_seen": 1795042697.200851
+  },
+  "ga-vrydN": {
+    "token": "ga-vrydN",
+    "title": "۸۷متر/فول امکانات/خوشچیدمان/سالن پرده خور/سندتکبرگ",
+    "price": 6000000000,
+    "district": "دکتر هوشیار",
+    "area": 87,
+    "price_per_m2": 68965517.2413793,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 80,
+    "discount_pct": null,
+    "reasons": [
+      "25% below the median (+50)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": true,
+    "url": "https://divar.ir/v/ga-vrydN",
+    "first_seen": 1795079566.7325196,
+    "last_seen": 1795079566.7325196
   }
 }
