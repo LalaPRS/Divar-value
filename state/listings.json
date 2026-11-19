@@ -613,11 +613,10 @@
     "price_per_m2": 78947368.42105263,
     "floor": 4,
     "total_floors": null,
-    "deal_score": 32,
+    "deal_score": 38,
     "discount_pct": null,
     "reasons": [
-      "21% below the median (+42)",
-      "no parking (-10)"
+      "19% below the median (+38)"
     ],
     "parking": false,
     "storage": false,
@@ -625,7 +624,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaYXFtid",
     "first_seen": 1794942446.0016532,
-    "last_seen": 1795057079.868192
+    "last_seen": 1795115170.7150626
   },
   "gaprI9fz": {
     "token": "gaprI9fz",
@@ -702,10 +701,10 @@
     "price_per_m2": 83098591.54929577,
     "floor": null,
     "total_floors": null,
-    "deal_score": 37,
+    "deal_score": 43,
     "discount_pct": null,
     "reasons": [
-      "11% below the median (+22)",
+      "14% below the median (+28)",
       "3+ photos (+15)"
     ],
     "parking": true,
@@ -714,7 +713,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gayaVEQy",
     "first_seen": 1794956377.7703764,
-    "last_seen": 1795094659.1540759
+    "last_seen": 1795115170.7150626
   },
   "ga5H7ZHr": {
     "token": "ga5H7ZHr",
@@ -882,7 +881,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gagr7zBd",
     "first_seen": 1794986716.626599,
-    "last_seen": 1795108465.3069103
+    "last_seen": 1795115170.7150626
   },
   "gatL-iKe": {
     "token": "gatL-iKe",
@@ -1082,7 +1081,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga9PZXII",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795108465.3069103
+    "last_seen": 1795115170.7150626
   },
   "ga5LHUop": {
     "token": "ga5LHUop",
@@ -1187,7 +1186,7 @@
     "deal_score": 65,
     "discount_pct": null,
     "reasons": [
-      "33% below the median (+60)",
+      "32% below the median (+60)",
       "3+ photos (+15)",
       "no parking (-10)"
     ],
@@ -1197,7 +1196,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9z6rHt",
     "first_seen": 1795014168.3276496,
-    "last_seen": 1795108465.3069103
+    "last_seen": 1795115170.7150626
   },
   "ga9PN6xQ": {
     "token": "ga9PN6xQ",
@@ -1243,7 +1242,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9LMzJ1",
     "first_seen": 1795022060.868168,
-    "last_seen": 1795108465.3069103
+    "last_seen": 1795115170.7150626
   },
   "ga9nFiiH": {
     "token": "ga9nFiiH",
@@ -1286,7 +1285,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaRK-0Uw",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795115170.7150626
   },
   "ga0H0jlf": {
     "token": "ga0H0jlf",
@@ -1306,7 +1305,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga0H0jlf",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795115170.7150626
   },
   "ga9rNuWL": {
     "token": "ga9rNuWL",
@@ -1426,7 +1425,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga-vrydN",
     "first_seen": 1795079566.7325196,
-    "last_seen": 1795108465.3069103
+    "last_seen": 1795115170.7150626
   },
   "ga-vcfQH": {
     "token": "ga-vcfQH",
@@ -1450,7 +1449,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga-vcfQH",
     "first_seen": 1795086495.8433013,
-    "last_seen": 1795108465.3069103
+    "last_seen": 1795115170.7150626
   },
   "ga-f9fwq": {
     "token": "ga-f9fwq",
@@ -1461,10 +1460,10 @@
     "price_per_m2": 86153846.15384616,
     "floor": 5,
     "total_floors": null,
-    "deal_score": 36,
+    "deal_score": 42,
     "discount_pct": null,
     "reasons": [
-      "8% below the median (+16)",
+      "11% below the median (+22)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)",
       "no parking (-10)"
@@ -1475,11 +1474,11 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga-f9fwq",
     "first_seen": 1795094659.1540759,
-    "last_seen": 1795094659.1540759
+    "last_seen": 1795115170.7150626
   },
   "ga3_jN-E": {
     "token": "ga3_jN-E",
-    "title": "۶۷ متر خوش نقشه قولنامه معتبر",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "یافت آباد جنوبی",
     "area": 67,
@@ -1495,7 +1494,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga3_jN-E",
     "first_seen": 1795094659.1540759,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795115170.7150626
   },
   "gafTKZEK": {
     "token": "gafTKZEK",
@@ -1515,7 +1514,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/gafTKZEK",
     "first_seen": 1795094659.1540759,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795115170.7150626
   },
   "ga_bQEia": {
     "token": "ga_bQEia",
@@ -1526,10 +1525,10 @@
     "price_per_m2": 75806451.61290322,
     "floor": null,
     "total_floors": null,
-    "deal_score": 64,
+    "deal_score": 62,
     "discount_pct": null,
     "reasons": [
-      "17% below the median (+34)",
+      "16% below the median (+32)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)"
     ],
@@ -1539,7 +1538,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/ga_bQEia",
     "first_seen": 1795100555.200361,
-    "last_seen": 1795108465.3069103
+    "last_seen": 1795115170.7150626
   },
   "ga_vBZsG": {
     "token": "ga_vBZsG",
@@ -1565,6 +1564,26 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga_vBZsG",
     "first_seen": 1795108465.3069103,
-    "last_seen": 1795108465.3069103
+    "last_seen": 1795115170.7150626
+  },
+  "gaj30gNV": {
+    "token": "gaj30gNV",
+    "title": "50 متر طبقه دوم دو خواب محبوب مجاز غربی",
+    "price": 6000000000,
+    "district": "بریانک",
+    "area": 50,
+    "price_per_m2": 120000000.0,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": null,
+    "discount_pct": null,
+    "reasons": [],
+    "parking": false,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/gaj30gNV",
+    "first_seen": 1795115170.7150626,
+    "last_seen": 1795115170.7150626
   }
 }
