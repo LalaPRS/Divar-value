@@ -882,7 +882,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gagr7zBd",
     "first_seen": 1794986716.626599,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795108465.3069103
   },
   "gatL-iKe": {
     "token": "gatL-iKe",
@@ -1082,7 +1082,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga9PZXII",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795108465.3069103
   },
   "ga5LHUop": {
     "token": "ga5LHUop",
@@ -1187,7 +1187,7 @@
     "deal_score": 65,
     "discount_pct": null,
     "reasons": [
-      "32% below the median (+60)",
+      "33% below the median (+60)",
       "3+ photos (+15)",
       "no parking (-10)"
     ],
@@ -1197,7 +1197,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9z6rHt",
     "first_seen": 1795014168.3276496,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795108465.3069103
   },
   "ga9PN6xQ": {
     "token": "ga9PN6xQ",
@@ -1232,12 +1232,10 @@
     "price_per_m2": 70588235.29411764,
     "floor": null,
     "total_floors": null,
-    "deal_score": 49,
+    "deal_score": 44,
     "discount_pct": null,
     "reasons": [
-      "22% below the median (+44)",
-      "published in the last 24 h (+15)",
-      "no parking (-10)"
+      "22% below the median (+44)"
     ],
     "parking": false,
     "storage": true,
@@ -1245,7 +1243,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga9LMzJ1",
     "first_seen": 1795022060.868168,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795108465.3069103
   },
   "ga9nFiiH": {
     "token": "ga9nFiiH",
@@ -1428,7 +1426,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga-vrydN",
     "first_seen": 1795079566.7325196,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795108465.3069103
   },
   "ga-vcfQH": {
     "token": "ga-vcfQH",
@@ -1452,7 +1450,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga-vcfQH",
     "first_seen": 1795086495.8433013,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795108465.3069103
   },
   "ga-f9fwq": {
     "token": "ga-f9fwq",
@@ -1528,10 +1526,10 @@
     "price_per_m2": 75806451.61290322,
     "floor": null,
     "total_floors": null,
-    "deal_score": 62,
+    "deal_score": 64,
     "discount_pct": null,
     "reasons": [
-      "16% below the median (+32)",
+      "17% below the median (+34)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)"
     ],
@@ -1541,6 +1539,32 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/ga_bQEia",
     "first_seen": 1795100555.200361,
-    "last_seen": 1795100555.200361
+    "last_seen": 1795108465.3069103
+  },
+  "ga_vBZsG": {
+    "token": "ga_vBZsG",
+    "title": "واحد زیرهمکف ۶۰ متری",
+    "price": 4200000000,
+    "district": "جوادیه تهرانپارس",
+    "area": 60,
+    "price_per_m2": 70000000.0,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 46,
+    "discount_pct": null,
+    "reasons": [
+      "23% below the median (+46)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)",
+      "below-ground floor (زیرهمکف / زیرزمین) (-20)",
+      "no parking (-10)"
+    ],
+    "parking": false,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/ga_vBZsG",
+    "first_seen": 1795108465.3069103,
+    "last_seen": 1795108465.3069103
   }
 }
