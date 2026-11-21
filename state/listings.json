@@ -22,7 +22,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -954,7 +954,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gavvSqJE",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "gaYrmNYx": {
     "token": "gaYrmNYx",
@@ -1287,7 +1287,7 @@
   },
   "ga0H0jlf": {
     "token": "ga0H0jlf",
-    "title": "۶۰ متر سند تکبرگ تهران/ فول امکانات سالن پرده خور",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "تهرانسر شمالی",
     "area": 60,
@@ -1303,7 +1303,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga0H0jlf",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "ga9rNuWL": {
     "token": "ga9rNuWL",
@@ -1421,7 +1421,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga-vrydN",
     "first_seen": 1795079566.7325196,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "ga-vcfQH": {
     "token": "ga-vcfQH",
@@ -1480,11 +1480,12 @@
     "price_per_m2": 89552238.80597015,
     "floor": null,
     "total_floors": null,
-    "deal_score": 27,
+    "deal_score": 17,
     "discount_pct": null,
     "reasons": [
       "6% below the median (+12)",
-      "3+ photos (+15)"
+      "3+ photos (+15)",
+      "no parking (-10)"
     ],
     "parking": false,
     "storage": true,
@@ -1492,7 +1493,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga3_jN-E",
     "first_seen": 1795094659.1540759,
-    "last_seen": 1795237238.4896538
+    "last_seen": 1795287418.1044297
   },
   "gafTKZEK": {
     "token": "gafTKZEK",
@@ -1535,7 +1536,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/ga_bQEia",
     "first_seen": 1795100555.200361,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "ga_vBZsG": {
     "token": "ga_vBZsG",
@@ -1560,7 +1561,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga_vBZsG",
     "first_seen": 1795108465.3069103,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "gaj30gNV": {
     "token": "gaj30gNV",
@@ -1832,7 +1833,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waAUUOUc",
     "first_seen": 1795180781.8098028,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "ga_HfCjM": {
     "token": "ga_HfCjM",
@@ -1867,10 +1868,10 @@
     "price_per_m2": 85714285.71428572,
     "floor": null,
     "total_floors": null,
-    "deal_score": 33,
+    "deal_score": 35,
     "discount_pct": null,
     "reasons": [
-      "9% below the median (+18)",
+      "10% below the median (+20)",
       "3+ photos (+15)"
     ],
     "parking": true,
@@ -1879,7 +1880,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waAADrrB",
     "first_seen": 1795180781.8098028,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "waAYjx0H": {
     "token": "waAYjx0H",
@@ -1902,7 +1903,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waAYjx0H",
     "first_seen": 1795180781.8098028,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "waA8Csi9": {
     "token": "waA8Csi9",
@@ -1989,7 +1990,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waAMI9jq",
     "first_seen": 1795201555.817424,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "waA4KFW3": {
     "token": "waA4KFW3",
@@ -2009,11 +2010,11 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waA4KFW3",
     "first_seen": 1795208233.3575072,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "waAgcEs5": {
     "token": "waAgcEs5",
-    "title": "واحد ۵۰متری",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "شهید رجایی",
     "area": 50,
@@ -2029,7 +2030,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waAgcEs5",
     "first_seen": 1795215264.45433,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "waB0G9sk": {
     "token": "waB0G9sk",
@@ -2097,7 +2098,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaYDnptR",
     "first_seen": 1795258415.8517034,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "waB44OZ9": {
     "token": "waB44OZ9",
@@ -2122,7 +2123,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waB44OZ9",
     "first_seen": 1795266113.1864276,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "waB4kkjs": {
     "token": "waB4kkjs",
@@ -2147,7 +2148,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/waB4kkjs",
     "first_seen": 1795266113.1864276,
-    "last_seen": 1795266113.1864276
+    "last_seen": 1795287418.1044297
   },
   "waBkIBHH": {
     "token": "waBkIBHH",
@@ -2191,7 +2192,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/waBYFMnh",
     "first_seen": 1795273018.84032,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "waB02wYl": {
     "token": "waB02wYl",
@@ -2211,7 +2212,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waB02wYl",
     "first_seen": 1795273018.84032,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   },
   "waBsYkyn": {
     "token": "waBsYkyn",
@@ -2239,7 +2240,7 @@
   },
   "gatfIryc": {
     "token": "gatfIryc",
-    "title": "۵۲ متر / فول بازسازی شده / طبقه همکف / تاپ لوکیشن",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "بهداشت",
     "area": 52,
@@ -2255,6 +2256,6 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gatfIryc",
     "first_seen": 1795280013.1141267,
-    "last_seen": 1795280013.1141267
+    "last_seen": 1795287418.1044297
   }
 }
