@@ -953,7 +953,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gavvSqJE",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795258415.8517034
+    "last_seen": 1795266113.1864276
   },
   "gaYrmNYx": {
     "token": "gaYrmNYx",
@@ -1408,10 +1408,10 @@
     "price_per_m2": 68965517.2413793,
     "floor": null,
     "total_floors": null,
-    "deal_score": 65,
+    "deal_score": 61,
     "discount_pct": null,
     "reasons": [
-      "25% below the median (+50)",
+      "23% below the median (+46)",
       "3+ photos (+15)",
       "only re-bumped: first published 2 days ago (+0)"
     ],
@@ -1421,7 +1421,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga-vrydN",
     "first_seen": 1795079566.7325196,
-    "last_seen": 1795258415.8517034
+    "last_seen": 1795266113.1864276
   },
   "ga-vcfQH": {
     "token": "ga-vcfQH",
@@ -1523,10 +1523,10 @@
     "price_per_m2": 75806451.61290322,
     "floor": null,
     "total_floors": null,
-    "deal_score": 49,
+    "deal_score": 47,
     "discount_pct": null,
     "reasons": [
-      "17% below the median (+34)",
+      "16% below the median (+32)",
       "3+ photos (+15)"
     ],
     "parking": true,
@@ -1535,7 +1535,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/ga_bQEia",
     "first_seen": 1795100555.200361,
-    "last_seen": 1795258415.8517034
+    "last_seen": 1795266113.1864276
   },
   "ga_vBZsG": {
     "token": "ga_vBZsG",
@@ -1546,12 +1546,11 @@
     "price_per_m2": 70000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 44,
+    "deal_score": 29,
     "discount_pct": null,
     "reasons": [
       "22% below the median (+44)",
       "3+ photos (+15)",
-      "published in the last 24 h (+15)",
       "below-ground floor (زیرهمکف / زیرزمین) (-20)",
       "no parking (-10)"
     ],
@@ -1561,7 +1560,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga_vBZsG",
     "first_seen": 1795108465.3069103,
-    "last_seen": 1795186852.0361936
+    "last_seen": 1795266113.1864276
   },
   "gaj30gNV": {
     "token": "gaj30gNV",
@@ -1735,10 +1734,10 @@
     "price_per_m2": 68390804.59770115,
     "floor": null,
     "total_floors": null,
-    "deal_score": 55,
+    "deal_score": 53,
     "discount_pct": null,
     "reasons": [
-      "25% below the median (+50)",
+      "24% below the median (+48)",
       "3+ photos (+15)",
       "no parking (-10)"
     ],
@@ -1748,7 +1747,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gadbN3-4",
     "first_seen": 1795173036.7578313,
-    "last_seen": 1795258415.8517034
+    "last_seen": 1795266113.1864276
   },
   "gaxbYHOv": {
     "token": "gaxbYHOv",
@@ -1819,10 +1818,10 @@
     "price_per_m2": 70175438.59649123,
     "floor": null,
     "total_floors": null,
-    "deal_score": 46,
+    "deal_score": 44,
     "discount_pct": null,
     "reasons": [
-      "23% below the median (+46)",
+      "22% below the median (+44)",
       "3+ photos (+15)",
       "published in the last 24 h (+15)",
       "below-ground floor (زیرهمکف / زیرزمین) (-20)",
@@ -1834,7 +1833,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waAUUOUc",
     "first_seen": 1795180781.8098028,
-    "last_seen": 1795258415.8517034
+    "last_seen": 1795266113.1864276
   },
   "ga_HfCjM": {
     "token": "ga_HfCjM",
@@ -2095,5 +2094,55 @@
     "url": "https://divar.ir/v/gaYDnptR",
     "first_seen": 1795258415.8517034,
     "last_seen": 1795258415.8517034
+  },
+  "waB44OZ9": {
+    "token": "waB44OZ9",
+    "title": "76 متری/ اتابک/ شهرک فرهنگیان",
+    "price": 5380000000,
+    "district": "مطهری",
+    "area": 76,
+    "price_per_m2": 70789473.68421052,
+    "floor": 3,
+    "total_floors": null,
+    "deal_score": 62,
+    "discount_pct": null,
+    "reasons": [
+      "21% below the median (+42)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)",
+      "no parking (-10)"
+    ],
+    "parking": false,
+    "storage": false,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waB44OZ9",
+    "first_seen": 1795266113.1864276,
+    "last_seen": 1795266113.1864276
+  },
+  "waB4kkjs": {
+    "token": "waB4kkjs",
+    "title": "۷۰مترخوشنقشه/حس‌تازه‌زندگی/پارکینگ‌سندی",
+    "price": 5250000000,
+    "district": "چیتگر شمالی",
+    "area": 70,
+    "price_per_m2": 75000000.0,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 14,
+    "discount_pct": null,
+    "reasons": [
+      "17% below the median (+34)",
+      "3+ photos (+15)",
+      "last bumped <24 h ago, publish time unknown (+5)",
+      "looks like a notice, parking, storage or co-op housing transfer, not a normal sale (-40)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": false,
+    "url": "https://divar.ir/v/waB4kkjs",
+    "first_seen": 1795266113.1864276,
+    "last_seen": 1795266113.1864276
   }
 }
