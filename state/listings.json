@@ -22,7 +22,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795287418.1044297
+    "last_seen": 1795294152.6390913
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -954,7 +954,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gavvSqJE",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795287418.1044297
+    "last_seen": 1795294152.6390913
   },
   "gaYrmNYx": {
     "token": "gaYrmNYx",
@@ -1421,7 +1421,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga-vrydN",
     "first_seen": 1795079566.7325196,
-    "last_seen": 1795287418.1044297
+    "last_seen": 1795294152.6390913
   },
   "ga-vcfQH": {
     "token": "ga-vcfQH",
@@ -1561,7 +1561,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga_vBZsG",
     "first_seen": 1795108465.3069103,
-    "last_seen": 1795287418.1044297
+    "last_seen": 1795294152.6390913
   },
   "gaj30gNV": {
     "token": "gaj30gNV",
@@ -1833,7 +1833,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waAUUOUc",
     "first_seen": 1795180781.8098028,
-    "last_seen": 1795287418.1044297
+    "last_seen": 1795294152.6390913
   },
   "ga_HfCjM": {
     "token": "ga_HfCjM",
@@ -2123,7 +2123,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waB44OZ9",
     "first_seen": 1795266113.1864276,
-    "last_seen": 1795287418.1044297
+    "last_seen": 1795294152.6390913
   },
   "waB4kkjs": {
     "token": "waB4kkjs",
@@ -2148,7 +2148,7 @@
     "single_sheet_deed": false,
     "url": "https://divar.ir/v/waB4kkjs",
     "first_seen": 1795266113.1864276,
-    "last_seen": 1795287418.1044297
+    "last_seen": 1795294152.6390913
   },
   "waBkIBHH": {
     "token": "waBkIBHH",
@@ -2257,5 +2257,30 @@
     "url": "https://divar.ir/v/gatfIryc",
     "first_seen": 1795280013.1141267,
     "last_seen": 1795287418.1044297
+  },
+  "waBEPMrf": {
+    "token": "waBEPMrf",
+    "title": "به نام خدا فروش آپارتمان ۵۷ متری در خزانه",
+    "price": 4000000000,
+    "district": "شهرک بعثت",
+    "area": 57,
+    "price_per_m2": 70175438.59649123,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 29,
+    "discount_pct": null,
+    "reasons": [
+      "22% below the median (+44)",
+      "published in the last 24 h (+15)",
+      "below-ground floor (زیرهمکف / زیرزمین) (-20)",
+      "no parking (-10)"
+    ],
+    "parking": false,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waBEPMrf",
+    "first_seen": 1795294152.6390913,
+    "last_seen": 1795294152.6390913
   }
 }
