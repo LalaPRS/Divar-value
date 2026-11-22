@@ -21,7 +21,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -603,7 +603,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga77BuXH",
     "first_seen": 1794942446.0016532,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "gaYXFtid": {
     "token": "gaYXFtid",
@@ -954,7 +954,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gavvSqJE",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "gaYrmNYx": {
     "token": "gaYrmNYx",
@@ -1283,7 +1283,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaRK-0Uw",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "ga0H0jlf": {
     "token": "ga0H0jlf",
@@ -1837,7 +1837,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waAUUOUc",
     "first_seen": 1795180781.8098028,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "ga_HfCjM": {
     "token": "ga_HfCjM",
@@ -2047,12 +2047,11 @@
     "price_per_m2": 80000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 56,
+    "deal_score": 37,
     "discount_pct": null,
     "reasons": [
-      "13% below the median (+26)",
-      "3+ photos (+15)",
-      "published in the last 24 h (+15)"
+      "11% below the median (+22)",
+      "3+ photos (+15)"
     ],
     "parking": true,
     "storage": false,
@@ -2060,7 +2059,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waB0G9sk",
     "first_seen": 1795258415.8517034,
-    "last_seen": 1795258415.8517034
+    "last_seen": 1795387932.452667
   },
   "waA0yHZ2": {
     "token": "waA0yHZ2",
@@ -2104,7 +2103,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaYDnptR",
     "first_seen": 1795258415.8517034,
-    "last_seen": 1795337725.5632293
+    "last_seen": 1795387932.452667
   },
   "waB44OZ9": {
     "token": "waB44OZ9",
@@ -2128,7 +2127,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waB44OZ9",
     "first_seen": 1795266113.1864276,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "waB4kkjs": {
     "token": "waB4kkjs",
@@ -2261,7 +2260,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gatfIryc",
     "first_seen": 1795280013.1141267,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "waBEPMrf": {
     "token": "waBEPMrf",
@@ -2449,7 +2448,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waBY_bTg",
     "first_seen": 1795316217.4284408,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "waBIFLwi": {
     "token": "waBIFLwi",
@@ -2546,7 +2545,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gajXCRTQ",
     "first_seen": 1795331770.6561077,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "gaxzvwcB": {
     "token": "gaxzvwcB",
@@ -2566,7 +2565,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaxzvwcB",
     "first_seen": 1795337725.5632293,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "waCkbCve": {
     "token": "waCkbCve",
@@ -2613,7 +2612,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waCYNOrR",
     "first_seen": 1795352394.457751,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "gawfFyWr": {
     "token": "gawfFyWr",
@@ -2636,7 +2635,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gawfFyWr",
     "first_seen": 1795352394.457751,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "waBgkkDB": {
     "token": "waBgkkDB",
@@ -2660,7 +2659,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waBgkkDB",
     "first_seen": 1795366420.2031076,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "waC4L2fH": {
     "token": "waC4L2fH",
@@ -2752,7 +2751,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/gay_MyKs",
     "first_seen": 1795366420.2031076,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "waCoPvIC": {
     "token": "waCoPvIC",
@@ -2772,7 +2771,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waCoPvIC",
     "first_seen": 1795366420.2031076,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "waCosDxj": {
     "token": "waCosDxj",
@@ -2792,7 +2791,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waCosDxj",
     "first_seen": 1795366420.2031076,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "gawD05zH": {
     "token": "gawD05zH",
@@ -2812,7 +2811,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gawD05zH",
     "first_seen": 1795366420.2031076,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "gawHycoK": {
     "token": "gawHycoK",
@@ -2836,7 +2835,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/gawHycoK",
     "first_seen": 1795380723.5127912,
-    "last_seen": 1795380723.5127912
+    "last_seen": 1795387932.452667
   },
   "ga6DbXWC": {
     "token": "ga6DbXWC",
