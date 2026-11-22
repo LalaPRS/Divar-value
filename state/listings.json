@@ -22,7 +22,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795323858.283543
+    "last_seen": 1795331770.6561077
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -1424,7 +1424,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/ga-vrydN",
     "first_seen": 1795079566.7325196,
-    "last_seen": 1795323858.283543
+    "last_seen": 1795331770.6561077
   },
   "ga-vcfQH": {
     "token": "ga-vcfQH",
@@ -1550,13 +1550,11 @@
     "price_per_m2": 70000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 29,
+    "deal_score": 59,
     "discount_pct": null,
     "reasons": [
       "22% below the median (+44)",
-      "3+ photos (+15)",
-      "below-ground floor (زیرهمکف / زیرزمین) (-20)",
-      "no parking (-10)"
+      "3+ photos (+15)"
     ],
     "parking": false,
     "storage": true,
@@ -1564,7 +1562,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga_vBZsG",
     "first_seen": 1795108465.3069103,
-    "last_seen": 1795323858.283543
+    "last_seen": 1795331770.6561077
   },
   "gaj30gNV": {
     "token": "gaj30gNV",
@@ -2131,7 +2129,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waB44OZ9",
     "first_seen": 1795266113.1864276,
-    "last_seen": 1795323858.283543
+    "last_seen": 1795331770.6561077
   },
   "waB4kkjs": {
     "token": "waB4kkjs",
@@ -2275,13 +2273,11 @@
     "price_per_m2": 70175438.59649123,
     "floor": null,
     "total_floors": null,
-    "deal_score": 29,
+    "deal_score": 49,
     "discount_pct": null,
     "reasons": [
       "22% below the median (+44)",
-      "published in the last 24 h (+15)",
-      "below-ground floor (زیرهمکف / زیرزمین) (-20)",
-      "no parking (-10)"
+      "last bumped <24 h ago, publish time unknown (+5)"
     ],
     "parking": false,
     "storage": true,
@@ -2289,7 +2285,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waBEPMrf",
     "first_seen": 1795294152.6390913,
-    "last_seen": 1795323858.283543
+    "last_seen": 1795331770.6561077
   },
   "ga6HqhCH": {
     "token": "ga6HqhCH",
@@ -2481,5 +2477,78 @@
     "url": "https://divar.ir/v/waBIFLwi",
     "first_seen": 1795316217.4284408,
     "last_seen": 1795316217.4284408
+  },
+  "waCo4_f4": {
+    "token": "waCo4_f4",
+    "title": "56متر/سند تک برگ/کم واحد/آکواریوم خوش نقشه",
+    "price": 4000000000,
+    "district": "تهرانسر شمالی",
+    "area": 56,
+    "price_per_m2": 71428571.42857143,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 72,
+    "discount_pct": null,
+    "reasons": [
+      "21% below the median (+42)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": true,
+    "url": "https://divar.ir/v/waCo4_f4",
+    "first_seen": 1795331770.6561077,
+    "last_seen": 1795331770.6561077
+  },
+  "waA8EGTe": {
+    "token": "waA8EGTe",
+    "title": "۶۷متر دوخواب فول امکانات لوکیشن خوب سندتک برگ",
+    "price": 5000000000,
+    "district": "استاد معین",
+    "area": 67,
+    "price_per_m2": 74626865.6716418,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 54,
+    "discount_pct": null,
+    "reasons": [
+      "17% below the median (+34)",
+      "3+ photos (+15)",
+      "last bumped <24 h ago, publish time unknown (+5)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": true,
+    "url": "https://divar.ir/v/waA8EGTe",
+    "first_seen": 1795331770.6561077,
+    "last_seen": 1795331770.6561077
+  },
+  "gajXCRTQ": {
+    "token": "gajXCRTQ",
+    "title": "فروش واحد ۶۷متری",
+    "price": 4750000000,
+    "district": "شهرک ابوذر",
+    "area": 67,
+    "price_per_m2": 70895522.3880597,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 47,
+    "discount_pct": null,
+    "reasons": [
+      "21% below the median (+42)",
+      "3+ photos (+15)",
+      "only re-bumped: first published 24 days ago (+0)",
+      "no parking (-10)"
+    ],
+    "parking": false,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/gajXCRTQ",
+    "first_seen": 1795331770.6561077,
+    "last_seen": 1795331770.6561077
   }
 }
