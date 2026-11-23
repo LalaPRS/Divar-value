@@ -21,7 +21,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -810,7 +810,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaXry1Cf",
     "first_seen": 1794978497.5779824,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "ga8_Emrp": {
     "token": "ga8_Emrp",
@@ -1104,7 +1104,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga5LHUop",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "ga9bnIES": {
     "token": "ga9bnIES",
@@ -1284,11 +1284,11 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaRK-0Uw",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "ga0H0jlf": {
     "token": "ga0H0jlf",
-    "title": "۶۰ متر سند تکبرگ تهران/ فول امکانات سالن پرده خور",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "تهرانسر شمالی",
     "area": 60,
@@ -1307,7 +1307,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga0H0jlf",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "ga9rNuWL": {
     "token": "ga9rNuWL",
@@ -2133,7 +2133,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waB44OZ9",
     "first_seen": 1795266113.1864276,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "waB4kkjs": {
     "token": "waB4kkjs",
@@ -2255,16 +2255,19 @@
     "price_per_m2": 115384615.38461539,
     "floor": null,
     "total_floors": null,
-    "deal_score": null,
+    "deal_score": 15,
     "discount_pct": null,
-    "reasons": [],
+    "reasons": [
+      "15% above the median (+0)",
+      "3+ photos (+15)"
+    ],
     "parking": false,
     "storage": false,
     "elevator": false,
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gatfIryc",
     "first_seen": 1795280013.1141267,
-    "last_seen": 1795426253.203367
+    "last_seen": 1795453858.7380319
   },
   "waBEPMrf": {
     "token": "waBEPMrf",
@@ -2286,7 +2289,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waBEPMrf",
     "first_seen": 1795294152.6390913,
-    "last_seen": 1795419737.9669242
+    "last_seen": 1795453858.7380319
   },
   "ga6HqhCH": {
     "token": "ga6HqhCH",
@@ -2545,7 +2548,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gajXCRTQ",
     "first_seen": 1795331770.6561077,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "gaxzvwcB": {
     "token": "gaxzvwcB",
@@ -2556,16 +2559,21 @@
     "price_per_m2": 92307692.3076923,
     "floor": null,
     "total_floors": null,
-    "deal_score": null,
+    "deal_score": 16,
     "discount_pct": null,
-    "reasons": [],
+    "reasons": [
+      "8% below the median (+16)",
+      "3+ photos (+15)",
+      "no parking (-10)",
+      "no elevator on floor 3 (-5)"
+    ],
     "parking": false,
     "storage": false,
     "elevator": false,
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaxzvwcB",
     "first_seen": 1795337725.5632293,
-    "last_seen": 1795426253.203367
+    "last_seen": 1795453858.7380319
   },
   "waCkbCve": {
     "token": "waCkbCve",
@@ -2748,7 +2756,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/gay_MyKs",
     "first_seen": 1795366420.2031076,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "waCoPvIC": {
     "token": "waCoPvIC",
@@ -2768,7 +2776,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waCoPvIC",
     "first_seen": 1795366420.2031076,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "waCosDxj": {
     "token": "waCosDxj",
@@ -2981,13 +2989,11 @@
     "price_per_m2": 101355932.20338982,
     "floor": null,
     "total_floors": null,
-    "deal_score": 28,
+    "deal_score": 15,
     "discount_pct": null,
     "reasons": [
-      "4% below the median (+8)",
-      "3+ photos (+15)",
-      "published in the last 24 h (+15)",
-      "no parking (-10)"
+      "1% above the median (+0)",
+      "3+ photos (+15)"
     ],
     "parking": false,
     "storage": true,
@@ -2995,7 +3001,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waCAbBRH",
     "first_seen": 1795419737.9669242,
-    "last_seen": 1795419737.9669242
+    "last_seen": 1795453858.7380319
   },
   "waBMNeeR": {
     "token": "waBMNeeR",
@@ -3006,10 +3012,11 @@
     "price_per_m2": 84366197.18309858,
     "floor": null,
     "total_floors": null,
-    "deal_score": 25,
+    "deal_score": 17,
     "discount_pct": null,
     "reasons": [
-      "20% below the median (+40)",
+      "16% below the median (+32)",
+      "only re-bumped: first published 2 days ago (+0)",
       "no parking (-10)",
       "no elevator on floor 4 (-5)"
     ],
@@ -3019,7 +3026,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waBMNeeR",
     "first_seen": 1795419737.9669242,
-    "last_seen": 1795419737.9669242
+    "last_seen": 1795453858.7380319
   },
   "waDM9_Ia": {
     "token": "waDM9_Ia",
@@ -3104,16 +3111,20 @@
     "price_per_m2": 109090909.0909091,
     "floor": null,
     "total_floors": null,
-    "deal_score": null,
+    "deal_score": 5,
     "discount_pct": null,
-    "reasons": [],
+    "reasons": [
+      "8% above the median (+0)",
+      "3+ photos (+15)",
+      "no parking (-10)"
+    ],
     "parking": false,
     "storage": false,
     "elevator": true,
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga43gCWF",
     "first_seen": 1795426253.203367,
-    "last_seen": 1795426253.203367
+    "last_seen": 1795453858.7380319
   },
   "waEgw0cU": {
     "token": "waEgw0cU",
@@ -3138,7 +3149,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEgw0cU",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "ga4b28tM": {
     "token": "ga4b28tM",
@@ -3229,11 +3240,11 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waEszc8G",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "waEwxTX2": {
     "token": "waEwxTX2",
-    "title": "۶۴ متر / گذر ۱۲ متری / انبار نفت",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "هلال احمر",
     "area": 64,
@@ -3249,11 +3260,11 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEwxTX2",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
   },
   "waEQRthw": {
     "token": "waEQRthw",
-    "title": "62متری / سالن پرده خور / بدون مشابه قیمتی",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "انبار نفت",
     "area": 62,
@@ -3269,6 +3280,51 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEQRthw",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795446768.1289985
+    "last_seen": 1795453858.7380319
+  },
+  "waEI2DhV": {
+    "token": "waEI2DhV",
+    "title": "۵۳ متر .مناسب مصرف کننده",
+    "price": 4000000000,
+    "district": "یافت آباد جنوبی",
+    "area": 53,
+    "price_per_m2": 75471698.11320755,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 52,
+    "discount_pct": null,
+    "reasons": [
+      "16% below the median (+32)",
+      "3+ photos (+15)",
+      "published in the last 24 h (+15)",
+      "no parking (-10)"
+    ],
+    "parking": false,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waEI2DhV",
+    "first_seen": 1795453858.7380319,
+    "last_seen": 1795453858.7380319
+  },
+  "waE8G-lF": {
+    "token": "waE8G-lF",
+    "title": "۵۰مترتکواحدپارکینگدار",
+    "price": 6000000000,
+    "district": "عباسی",
+    "area": 50,
+    "price_per_m2": 120000000.0,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": null,
+    "discount_pct": null,
+    "reasons": [],
+    "parking": true,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waE8G-lF",
+    "first_seen": 1795453858.7380319,
+    "last_seen": 1795453858.7380319
   }
 }
