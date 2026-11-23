@@ -21,7 +21,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga8fBy_w",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795460942.9035034
+    "last_seen": 1795467509.8021832
   },
   "ga7LS4aj": {
     "token": "ga7LS4aj",
@@ -479,13 +479,11 @@
     "price_per_m2": 80000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 41,
+    "deal_score": 37,
     "discount_pct": null,
     "reasons": [
-      "18% below the median (+36)",
-      "3+ photos (+15)",
-      "only re-bumped: first published 30 days ago (+0)",
-      "no parking (-10)"
+      "11% below the median (+22)",
+      "3+ photos (+15)"
     ],
     "parking": false,
     "storage": true,
@@ -493,7 +491,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gacDpqWU",
     "first_seen": 1794927593.4128048,
-    "last_seen": 1795426253.203367
+    "last_seen": 1795467509.8021832
   },
   "ga5rlbul": {
     "token": "ga5rlbul",
@@ -591,12 +589,11 @@
     "price_per_m2": 81538461.53846154,
     "floor": null,
     "total_floors": null,
-    "deal_score": 38,
+    "deal_score": 33,
     "discount_pct": null,
     "reasons": [
       "9% below the median (+18)",
-      "3+ photos (+15)",
-      "last bumped <24 h ago, publish time unknown (+5)"
+      "3+ photos (+15)"
     ],
     "parking": false,
     "storage": true,
@@ -604,7 +601,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga77BuXH",
     "first_seen": 1794942446.0016532,
-    "last_seen": 1795387932.452667
+    "last_seen": 1795467509.8021832
   },
   "gaYXFtid": {
     "token": "gaYXFtid",
@@ -810,7 +807,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaXry1Cf",
     "first_seen": 1794978497.5779824,
-    "last_seen": 1795460942.9035034
+    "last_seen": 1795467509.8021832
   },
   "ga8_Emrp": {
     "token": "ga8_Emrp",
@@ -1096,7 +1093,7 @@
     "discount_pct": null,
     "reasons": [
       "44% below the median (+60)",
-      "only re-bumped: first published 8 days ago (+0)"
+      "only re-bumped: first published 9 days ago (+0)"
     ],
     "parking": true,
     "storage": true,
@@ -1104,7 +1101,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga5LHUop",
     "first_seen": 1795008066.812831,
-    "last_seen": 1795460942.9035034
+    "last_seen": 1795467509.8021832
   },
   "ga9bnIES": {
     "token": "ga9bnIES",
@@ -1288,7 +1285,7 @@
   },
   "ga0H0jlf": {
     "token": "ga0H0jlf",
-    "title": "بدون عنوان",
+    "title": "۶۰ متر سند تکبرگ تهران/ فول امکانات سالن پرده خور",
     "price": 6000000000,
     "district": "تهرانسر شمالی",
     "area": 60,
@@ -1307,7 +1304,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga0H0jlf",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795453858.7380319
+    "last_seen": 1795467509.8021832
   },
   "ga9rNuWL": {
     "token": "ga9rNuWL",
@@ -2065,7 +2062,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waB0G9sk",
     "first_seen": 1795258415.8517034,
-    "last_seen": 1795387932.452667
+    "last_seen": 1795467509.8021832
   },
   "waA0yHZ2": {
     "token": "waA0yHZ2",
@@ -2133,7 +2130,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waB44OZ9",
     "first_seen": 1795266113.1864276,
-    "last_seen": 1795460942.9035034
+    "last_seen": 1795467509.8021832
   },
   "waB4kkjs": {
     "token": "waB4kkjs",
@@ -2289,7 +2286,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waBEPMrf",
     "first_seen": 1795294152.6390913,
-    "last_seen": 1795460942.9035034
+    "last_seen": 1795467509.8021832
   },
   "ga6HqhCH": {
     "token": "ga6HqhCH",
@@ -2452,7 +2449,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waBY_bTg",
     "first_seen": 1795316217.4284408,
-    "last_seen": 1795387932.452667
+    "last_seen": 1795467509.8021832
   },
   "waBIFLwi": {
     "token": "waBIFLwi",
@@ -2548,7 +2545,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gajXCRTQ",
     "first_seen": 1795331770.6561077,
-    "last_seen": 1795460942.9035034
+    "last_seen": 1795467509.8021832
   },
   "gaxzvwcB": {
     "token": "gaxzvwcB",
@@ -2756,7 +2753,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/gay_MyKs",
     "first_seen": 1795366420.2031076,
-    "last_seen": 1795453858.7380319
+    "last_seen": 1795467509.8021832
   },
   "waCoPvIC": {
     "token": "waCoPvIC",
@@ -2860,7 +2857,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga6DbXWC",
     "first_seen": 1795380723.5127912,
-    "last_seen": 1795402943.8223321
+    "last_seen": 1795467509.8021832
   },
   "waDkyfZI": {
     "token": "waDkyfZI",
@@ -3149,7 +3146,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEgw0cU",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795460942.9035034
+    "last_seen": 1795467509.8021832
   },
   "ga4b28tM": {
     "token": "ga4b28tM",
@@ -3240,11 +3237,11 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waEszc8G",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795453858.7380319
+    "last_seen": 1795467509.8021832
   },
   "waEwxTX2": {
     "token": "waEwxTX2",
-    "title": "بدون عنوان",
+    "title": "۶۴ متر / گذر ۱۲ متری / انبار نفت",
     "price": 6000000000,
     "district": "هلال احمر",
     "area": 64,
@@ -3260,11 +3257,11 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEwxTX2",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795453858.7380319
+    "last_seen": 1795467509.8021832
   },
   "waEQRthw": {
     "token": "waEQRthw",
-    "title": "بدون عنوان",
+    "title": "62متری / سالن پرده خور / بدون مشابه قیمتی",
     "price": 6000000000,
     "district": "انبار نفت",
     "area": 62,
@@ -3280,7 +3277,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEQRthw",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795453858.7380319
+    "last_seen": 1795467509.8021832
   },
   "waEI2DhV": {
     "token": "waEI2DhV",
@@ -3305,7 +3302,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEI2DhV",
     "first_seen": 1795453858.7380319,
-    "last_seen": 1795460942.9035034
+    "last_seen": 1795467509.8021832
   },
   "waE8G-lF": {
     "token": "waE8G-lF",
@@ -3325,6 +3322,26 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waE8G-lF",
     "first_seen": 1795453858.7380319,
-    "last_seen": 1795453858.7380319
+    "last_seen": 1795467509.8021832
+  },
+  "waEsHszw": {
+    "token": "waEsHszw",
+    "title": "فروش آپارتمان/ ۵۳ متر / خوش نقشه/ 2 کله / غرق نور",
+    "price": 6000000000,
+    "district": "سلیمانی",
+    "area": 53,
+    "price_per_m2": 113207547.16981132,
+    "floor": 2,
+    "total_floors": null,
+    "deal_score": null,
+    "discount_pct": null,
+    "reasons": [],
+    "parking": false,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waEsHszw",
+    "first_seen": 1795467509.8021832,
+    "last_seen": 1795467509.8021832
   }
 }
