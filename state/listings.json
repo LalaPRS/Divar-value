@@ -2604,13 +2604,11 @@
     "price_per_m2": 73333333.33333333,
     "floor": null,
     "total_floors": null,
-    "deal_score": 23,
+    "deal_score": 43,
     "discount_pct": null,
     "reasons": [
       "19% below the median (+38)",
-      "only re-bumped: first published 3 days ago (+0)",
-      "no parking (-10)",
-      "no elevator on floor 3 (-5)"
+      "last bumped <24 h ago, publish time unknown (+5)"
     ],
     "parking": false,
     "storage": true,
@@ -2618,7 +2616,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waCYNOrR",
     "first_seen": 1795352394.457751,
-    "last_seen": 1795591790.5579793
+    "last_seen": 1795604681.7745862
   },
   "gawfFyWr": {
     "token": "gawfFyWr",
@@ -3131,10 +3129,10 @@
     "price_per_m2": 72388059.70149253,
     "floor": null,
     "total_floors": null,
-    "deal_score": 52,
+    "deal_score": 50,
     "discount_pct": null,
     "reasons": [
-      "21% below the median (+42)",
+      "20% below the median (+40)",
       "3+ photos (+15)",
       "no elevator on floor 3 (-5)"
     ],
@@ -3144,7 +3142,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEgw0cU",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795598345.77508
+    "last_seen": 1795604681.7745862
   },
   "ga4b28tM": {
     "token": "ga4b28tM",
@@ -3298,7 +3296,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEI2DhV",
     "first_seen": 1795453858.7380319,
-    "last_seen": 1795598345.77508
+    "last_seen": 1795604681.7745862
   },
   "waE8G-lF": {
     "token": "waE8G-lF",
@@ -3548,7 +3546,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waF4zI7P",
     "first_seen": 1795511714.0491912,
-    "last_seen": 1795598345.77508
+    "last_seen": 1795604681.7745862
   },
   "waFs03uO": {
     "token": "waFs03uO",
@@ -3668,12 +3666,11 @@
     "price_per_m2": 71538461.53846154,
     "floor": null,
     "total_floors": null,
-    "deal_score": 74,
+    "deal_score": 57,
     "discount_pct": null,
     "reasons": [
-      "22% below the median (+44)",
-      "3+ photos (+15)",
-      "published in the last 24 h (+15)"
+      "21% below the median (+42)",
+      "3+ photos (+15)"
     ],
     "parking": true,
     "storage": true,
@@ -3681,7 +3678,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waFcG1WI",
     "first_seen": 1795518099.9905813,
-    "last_seen": 1795598345.77508
+    "last_seen": 1795604681.7745862
   },
   "gaxD85Gl": {
     "token": "gaxD85Gl",
@@ -3876,10 +3873,10 @@
     "price_per_m2": 67692307.6923077,
     "floor": null,
     "total_floors": null,
-    "deal_score": 52,
+    "deal_score": 50,
     "discount_pct": null,
     "reasons": [
-      "26% below the median (+52)",
+      "25% below the median (+50)",
       "published in the last 24 h (+15)",
       "no parking (-10)",
       "no elevator on floor 4 (-5)"
@@ -3890,7 +3887,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waGU5QHC",
     "first_seen": 1795598345.77508,
-    "last_seen": 1795598345.77508
+    "last_seen": 1795604681.7745862
   },
   "waGo5h5x": {
     "token": "waGo5h5x",
@@ -3901,12 +3898,12 @@
     "price_per_m2": 80000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 44,
+    "deal_score": 54,
     "discount_pct": null,
     "reasons": [
       "12% below the median (+24)",
       "3+ photos (+15)",
-      "last bumped <24 h ago, publish time unknown (+5)"
+      "published in the last 24 h (+15)"
     ],
     "parking": true,
     "storage": true,
@@ -3914,7 +3911,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waGo5h5x",
     "first_seen": 1795598345.77508,
-    "last_seen": 1795598345.77508
+    "last_seen": 1795604681.7745862
   },
   "gafHCOus": {
     "token": "gafHCOus",
@@ -3959,5 +3956,28 @@
     "url": "https://divar.ir/v/waGop0yh",
     "first_seen": 1795598345.77508,
     "last_seen": 1795598345.77508
+  },
+  "waG8bv8S": {
+    "token": "waG8bv8S",
+    "title": "فروش واحدهای ۷۵به بالا",
+    "price": 6000000000,
+    "district": "شهرک ابوذر",
+    "area": 75,
+    "price_per_m2": 80000000.0,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 39,
+    "discount_pct": null,
+    "reasons": [
+      "12% below the median (+24)",
+      "published in the last 24 h (+15)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waG8bv8S",
+    "first_seen": 1795604681.7745862,
+    "last_seen": 1795604681.7745862
   }
 }
