@@ -1284,7 +1284,7 @@
   },
   "ga0H0jlf": {
     "token": "ga0H0jlf",
-    "title": "۶۰ متر سند تکبرگ تهران/ فول امکانات سالن پرده خور",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "تهرانسر شمالی",
     "area": 60,
@@ -1303,7 +1303,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga0H0jlf",
     "first_seen": 1795028524.142683,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "ga9rNuWL": {
     "token": "ga9rNuWL",
@@ -1480,10 +1480,10 @@
     "price_per_m2": 89552238.80597015,
     "floor": null,
     "total_floors": null,
-    "deal_score": 17,
+    "deal_score": 25,
     "discount_pct": null,
     "reasons": [
-      "6% below the median (+12)",
+      "10% below the median (+20)",
       "3+ photos (+15)",
       "no parking (-10)"
     ],
@@ -1493,7 +1493,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga3_jN-E",
     "first_seen": 1795094659.1540759,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "gafTKZEK": {
     "token": "gafTKZEK",
@@ -2244,7 +2244,7 @@
   },
   "gatfIryc": {
     "token": "gatfIryc",
-    "title": "۵۲ متر / فول بازسازی شده / طبقه همکف / تاپ لوکیشن",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "بهداشت",
     "area": 52,
@@ -2263,7 +2263,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gatfIryc",
     "first_seen": 1795280013.1141267,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "waBEPMrf": {
     "token": "waBEPMrf",
@@ -3247,7 +3247,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEwxTX2",
     "first_seen": 1795446768.1289985,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "waEQRthw": {
     "token": "waEQRthw",
@@ -3331,7 +3331,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waEsHszw",
     "first_seen": 1795467509.8021832,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "waC0uLgp": {
     "token": "waC0uLgp",
@@ -3541,7 +3541,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waF4zI7P",
     "first_seen": 1795511714.0491912,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "waFs03uO": {
     "token": "waFs03uO",
@@ -3673,7 +3673,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waFcG1WI",
     "first_seen": 1795518099.9905813,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "gaxD85Gl": {
     "token": "gaxD85Gl",
@@ -3868,12 +3868,10 @@
     "price_per_m2": 67692307.6923077,
     "floor": null,
     "total_floors": null,
-    "deal_score": 35,
+    "deal_score": 50,
     "discount_pct": null,
     "reasons": [
-      "25% below the median (+50)",
-      "no parking (-10)",
-      "no elevator on floor 4 (-5)"
+      "25% below the median (+50)"
     ],
     "parking": false,
     "storage": true,
@@ -3881,7 +3879,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waGU5QHC",
     "first_seen": 1795598345.77508,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "waGo5h5x": {
     "token": "waGo5h5x",
@@ -3892,10 +3890,10 @@
     "price_per_m2": 80000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 47,
+    "deal_score": 55,
     "discount_pct": null,
     "reasons": [
-      "16% below the median (+32)",
+      "20% below the median (+40)",
       "3+ photos (+15)"
     ],
     "parking": true,
@@ -3904,7 +3902,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waGo5h5x",
     "first_seen": 1795598345.77508,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "gafHCOus": {
     "token": "gafHCOus",
@@ -3952,18 +3950,18 @@
   },
   "waG8bv8S": {
     "token": "waG8bv8S",
-    "title": "بدون عنوان",
+    "title": "فروش واحدهای ۷۵به بالا",
     "price": 6000000000,
     "district": "شهرک ابوذر",
     "area": 75,
     "price_per_m2": 80000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 39,
+    "deal_score": 40,
     "discount_pct": null,
     "reasons": [
-      "12% below the median (+24)",
-      "published in the last 24 h (+15)"
+      "20% below the median (+40)",
+      "only re-bumped: first published 1 days ago (+0)"
     ],
     "parking": true,
     "storage": true,
@@ -3971,7 +3969,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waG8bv8S",
     "first_seen": 1795604681.7745862,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "waG4daot": {
     "token": "waG4daot",
@@ -3982,13 +3980,12 @@
     "price_per_m2": 80000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 52,
+    "deal_score": 44,
     "discount_pct": null,
     "reasons": [
-      "16% below the median (+32)",
+      "12% below the median (+24)",
       "3+ photos (+15)",
-      "published in the last 24 h (+15)",
-      "no parking (-10)"
+      "last bumped <24 h ago, publish time unknown (+5)"
     ],
     "parking": true,
     "storage": true,
@@ -3996,7 +3993,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waG4daot",
     "first_seen": 1795613365.4907427,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "waGkaKgU": {
     "token": "waGkaKgU",
@@ -4023,7 +4020,7 @@
   },
   "gaLjpVD3": {
     "token": "gaLjpVD3",
-    "title": "آپارتمان،۶۳متری، یک خوابه فول امکانات",
+    "title": "بدون عنوان",
     "price": 6000000000,
     "district": "کیانشهر",
     "area": 63,
@@ -4039,7 +4036,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gaLjpVD3",
     "first_seen": 1795619728.2740915,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "ga17iWtU": {
     "token": "ga17iWtU",
@@ -4084,7 +4081,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waHE_jOB",
     "first_seen": 1795684597.3162076,
-    "last_seen": 1795684597.3162076
+    "last_seen": 1795691051.4827294
   },
   "gar-5RSl": {
     "token": "gar-5RSl",
@@ -4133,5 +4130,134 @@
     "url": "https://divar.ir/v/ga5Xml0F",
     "first_seen": 1795684597.3162076,
     "last_seen": 1795684597.3162076
+  },
+  "waIgwQ2C": {
+    "token": "waIgwQ2C",
+    "title": "یک پیشنهاد ویژه برای مستاجرین عزیز",
+    "price": 4000000000,
+    "district": "حکیمیه",
+    "area": null,
+    "price_per_m2": null,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 75,
+    "discount_pct": null,
+    "reasons": [
+      "56% below the median (+60)",
+      "published in the last 24 h (+15)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waIgwQ2C",
+    "first_seen": 1795691051.4827294,
+    "last_seen": 1795691051.4827294
+  },
+  "waIMwcOV": {
+    "token": "waIMwcOV",
+    "title": "فرصت خرید آپارتمان..۱متری دو خوابه",
+    "price": 4000000000,
+    "district": "جوادیه تهرانپارس",
+    "area": null,
+    "price_per_m2": null,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 75,
+    "discount_pct": null,
+    "reasons": [
+      "56% below the median (+60)",
+      "published in the last 24 h (+15)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waIMwcOV",
+    "first_seen": 1795691051.4827294,
+    "last_seen": 1795691051.4827294
+  },
+  "waIoQT-7": {
+    "token": "waIoQT-7",
+    "title": "یک پیشنهاد برای مستاجرین که هنوز صاحب خونه نشدن",
+    "price": 5000000000,
+    "district": "مظاهری",
+    "area": null,
+    "price_per_m2": null,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 75,
+    "discount_pct": null,
+    "reasons": [
+      "45% below the median (+60)",
+      "published in the last 24 h (+15)"
+    ],
+    "parking": true,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waIoQT-7",
+    "first_seen": 1795691051.4827294,
+    "last_seen": 1795691051.4827294
+  },
+  "waIgA8YV": {
+    "token": "waIgA8YV",
+    "title": "بدون عنوان",
+    "price": 6000000000,
+    "district": null,
+    "area": 85,
+    "price_per_m2": 70588235.29411764,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": null,
+    "discount_pct": null,
+    "reasons": [],
+    "parking": false,
+    "storage": true,
+    "elevator": true,
+    "single_sheet_deed": null,
+    "url": null,
+    "first_seen": 1795691051.4827294,
+    "last_seen": 1795691051.4827294
+  },
+  "waIQQE97": {
+    "token": "waIQQE97",
+    "title": "بدون عنوان",
+    "price": 6000000000,
+    "district": null,
+    "area": 50,
+    "price_per_m2": 120000000.0,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": null,
+    "discount_pct": null,
+    "reasons": [],
+    "parking": false,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": null,
+    "first_seen": 1795691051.4827294,
+    "last_seen": 1795691051.4827294
+  },
+  "waIAgI57": {
+    "token": "waIAgI57",
+    "title": "واحد مسکونی.",
+    "price": 6000000000,
+    "district": "علایین",
+    "area": null,
+    "price_per_m2": null,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": null,
+    "discount_pct": null,
+    "reasons": [],
+    "parking": false,
+    "storage": false,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waIAgI57",
+    "first_seen": 1795691051.4827294,
+    "last_seen": 1795691051.4827294
   }
 }
