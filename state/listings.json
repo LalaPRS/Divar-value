@@ -3532,7 +3532,7 @@
     "deal_score": 75,
     "discount_pct": null,
     "reasons": [
-      "32% below the median (+60)",
+      "33% below the median (+60)",
       "3+ photos (+15)"
     ],
     "parking": true,
@@ -3541,7 +3541,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waF4zI7P",
     "first_seen": 1795511714.0491912,
-    "last_seen": 1795691051.4827294
+    "last_seen": 1795699688.177598
   },
   "waFs03uO": {
     "token": "waFs03uO",
@@ -3673,7 +3673,7 @@
     "single_sheet_deed": true,
     "url": "https://divar.ir/v/waFcG1WI",
     "first_seen": 1795518099.9905813,
-    "last_seen": 1795691051.4827294
+    "last_seen": 1795699688.177598
   },
   "gaxD85Gl": {
     "token": "gaxD85Gl",
@@ -3879,7 +3879,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waGU5QHC",
     "first_seen": 1795598345.77508,
-    "last_seen": 1795691051.4827294
+    "last_seen": 1795699688.177598
   },
   "waGo5h5x": {
     "token": "waGo5h5x",
@@ -4081,7 +4081,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waHE_jOB",
     "first_seen": 1795684597.3162076,
-    "last_seen": 1795691051.4827294
+    "last_seen": 1795699688.177598
   },
   "gar-5RSl": {
     "token": "gar-5RSl",
@@ -4152,7 +4152,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waIgwQ2C",
     "first_seen": 1795691051.4827294,
-    "last_seen": 1795691051.4827294
+    "last_seen": 1795699688.177598
   },
   "waIMwcOV": {
     "token": "waIMwcOV",
@@ -4175,7 +4175,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waIMwcOV",
     "first_seen": 1795691051.4827294,
-    "last_seen": 1795691051.4827294
+    "last_seen": 1795699688.177598
   },
   "waIoQT-7": {
     "token": "waIoQT-7",
@@ -4198,7 +4198,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waIoQT-7",
     "first_seen": 1795691051.4827294,
-    "last_seen": 1795691051.4827294
+    "last_seen": 1795699688.177598
   },
   "waIgA8YV": {
     "token": "waIgA8YV",
@@ -4259,5 +4259,28 @@
     "url": "https://divar.ir/v/waIAgI57",
     "first_seen": 1795691051.4827294,
     "last_seen": 1795691051.4827294
+  },
+  "waIAQZ2d": {
+    "token": "waIAQZ2d",
+    "title": "59متر/هلال احمر",
+    "price": 4400000000,
+    "district": "عباسی",
+    "area": 59,
+    "price_per_m2": 74576271.18644068,
+    "floor": null,
+    "total_floors": null,
+    "deal_score": 41,
+    "discount_pct": null,
+    "reasons": [
+      "18% below the median (+36)",
+      "last bumped <24 h ago, publish time unknown (+5)"
+    ],
+    "parking": false,
+    "storage": true,
+    "elevator": false,
+    "single_sheet_deed": null,
+    "url": "https://divar.ir/v/waIAQZ2d",
+    "first_seen": 1795699688.177598,
+    "last_seen": 1795699688.177598
   }
 }
