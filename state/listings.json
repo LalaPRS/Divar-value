@@ -103,10 +103,10 @@
     "price_per_m2": 77333333.33333333,
     "floor": null,
     "total_floors": null,
-    "deal_score": 41,
+    "deal_score": 33,
     "discount_pct": null,
     "reasons": [
-      "18% below the median (+36)",
+      "14% below the median (+28)",
       "3+ photos (+15)",
       "only re-bumped: first published 12 days ago (+0)",
       "no parking (-10)"
@@ -117,7 +117,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga7jhZWN",
     "first_seen": 1794915232.0736926,
-    "last_seen": 1795850506.979149
+    "last_seen": 1795856301.8937745
   },
   "ga7H59oF": {
     "token": "ga7H59oF",
@@ -481,10 +481,10 @@
     "price_per_m2": 78000000.0,
     "floor": null,
     "total_floors": null,
-    "deal_score": 35,
+    "deal_score": 31,
     "discount_pct": null,
     "reasons": [
-      "15% below the median (+30)",
+      "13% below the median (+26)",
       "3+ photos (+15)",
       "only re-bumped: first published 35 days ago (+0)",
       "no parking (-10)"
@@ -495,7 +495,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gacDpqWU",
     "first_seen": 1794927593.4128048,
-    "last_seen": 1795834756.3207204
+    "last_seen": 1795856301.8937745
   },
   "ga5rlbul": {
     "token": "ga5rlbul",
@@ -956,7 +956,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/gavvSqJE",
     "first_seen": 1795000271.2762477,
-    "last_seen": 1795850506.979149
+    "last_seen": 1795856301.8937745
   },
   "gaYrmNYx": {
     "token": "gaYrmNYx",
@@ -3887,7 +3887,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waGU5QHC",
     "first_seen": 1795598345.77508,
-    "last_seen": 1795850506.979149
+    "last_seen": 1795856301.8937745
   },
   "waGo5h5x": {
     "token": "waGo5h5x",
@@ -4010,10 +4010,10 @@
     "price_per_m2": 75342465.75342466,
     "floor": null,
     "total_floors": null,
-    "deal_score": 36,
+    "deal_score": 32,
     "discount_pct": null,
     "reasons": [
-      "18% below the median (+36)"
+      "16% below the median (+32)"
     ],
     "parking": true,
     "storage": true,
@@ -4021,7 +4021,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waGkaKgU",
     "first_seen": 1795613365.4907427,
-    "last_seen": 1795834756.3207204
+    "last_seen": 1795856301.8937745
   },
   "gaLjpVD3": {
     "token": "gaLjpVD3",
@@ -4088,7 +4088,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waHE_jOB",
     "first_seen": 1795684597.3162076,
-    "last_seen": 1795850506.979149
+    "last_seen": 1795856301.8937745
   },
   "gar-5RSl": {
     "token": "gar-5RSl",
@@ -4457,7 +4457,6 @@
     "reasons": [
       "24% below the median (+48)",
       "3+ photos (+15)",
-      "only re-bumped: first published 13 days ago (+0)",
       "no parking (-10)"
     ],
     "parking": false,
@@ -4466,7 +4465,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/ga5X1UkX",
     "first_seen": 1795770978.7306268,
-    "last_seen": 1795850506.979149
+    "last_seen": 1795856301.8937745
   },
   "waJ8EarM": {
     "token": "waJ8EarM",
@@ -4533,7 +4532,7 @@
   },
   "waKcW0a1": {
     "token": "waKcW0a1",
-    "title": "آپارتمان در نعمت اباد",
+    "title": "آپارتمان در نعمت اباد فروش و معاوضه",
     "price": 5900000000,
     "district": "شهرک ابوذر",
     "area": null,
@@ -4553,7 +4552,7 @@
     "single_sheet_deed": null,
     "url": "https://divar.ir/v/waKcW0a1",
     "first_seen": 1795850506.979149,
-    "last_seen": 1795850506.979149
+    "last_seen": 1795856301.8937745
   },
   "waK4ndW2": {
     "token": "waK4ndW2",
